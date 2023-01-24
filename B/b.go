@@ -1,6 +1,6 @@
 package B
 
-import "github.com/garyxiong123/go-depency-A/A"
+import _ "github.com/garyxiong123/go-depency-A/A"
 
 func Go_dependency_B_V1() {
 	A.Go_dependency_A_V1()
