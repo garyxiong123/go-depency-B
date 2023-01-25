@@ -1,4 +1,4 @@
-module go-depency-B
+module github.com/garyxiong123/go-depency-B
 
 go 1.18
 
